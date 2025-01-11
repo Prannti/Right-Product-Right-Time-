@@ -1,5 +1,5 @@
 # Amazon Product Recommendation System
-# Project Authors: Ms.Prannti Agnihotri, Mr.Nandit Sharma, Ms.Ashna Santosh Tandon and Mr.Anirudh Gupta
+## Project Authors: Ms.Prannti Agnihotri, Mr.Nandit Sharma, Ms.Ashna Santosh Tandon and Mr.Anirudh Gupta
 
 This project is a **Product Recommendation System** built using Python. It utilizes **k-Nearest Neighbors (k-NN)** for recommending similar products based on features like price and rank. The project also includes a **search functionality** and a GUI interface for user interaction.
 
